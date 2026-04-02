@@ -12,15 +12,6 @@ def hello_world():
 @app.route("/contact")
 def MaPremiereAPI():
     return "<h2>Ma page de contact</h2>"
-```
-
----
-
-Ensuite, mettez à jour votre Codespace. Dans le terminal :
-
-**1 — Stoppez le serveur :**
-```
-Ctrl + C
 
 
 
